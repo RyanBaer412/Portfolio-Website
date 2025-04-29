@@ -1,0 +1,21 @@
+body {
+    color: coral;}
+    h1, h2 {
+ font-family: fantasy;}
+ p {
+color: darkcyan;}
+h1, h2 {
+    background-color: turquoise;}
+h2 {
+    font-size: 2.0em }
+    p {
+border-width: 4x;}
+    p.one {
+border-style: double;}
+p.one {
+    color: orange;}
+    p.two {
+border-style: dotted;}
+p.two {
+    color: lightgray;}
+        
